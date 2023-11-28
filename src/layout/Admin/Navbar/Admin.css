@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+}
+.Admin__Navbar ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 70PX;
+    list-style: none;
+    text-decoration: none;
+    font-size: 20px;
+    height: 75px;
+    background-color: rgb(187, 47, 47);
+}
+

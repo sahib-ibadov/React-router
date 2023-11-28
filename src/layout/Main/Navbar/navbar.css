@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar__main ul{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    display: flex; 
+    list-style: none;
+    gap: 20px;
+    font-size: 25px;
+    height: 50px;
+
+
+}
+
+.navbar__main{
+    background-color: brown;
+}

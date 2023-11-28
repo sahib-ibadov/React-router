@@ -1,0 +1,32 @@
+/* 
+table, th, td {
+    border: 1px solid;
+  }
+  table {
+    width: 100%;
+  }
+  table {
+    border-collapse: collapse;
+  } */
+  .edit__button{
+    height: 30px;
+    width: 40px;
+    border-radius: 7px;
+    background-color: brown ;
+    color: aliceblue;
+  }
+  .delete__button{
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    background-color: blue;
+    color: aliceblue;
+
+  }
+  .Sort__button{
+    height: 30px;
+    background-color: blue;
+    width: 50px;
+    border-radius: 7px;
+    color: aliceblue;
+  }
